@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ui/images/hash-icon.png</file>
+    </qresource>
+</RCC>
